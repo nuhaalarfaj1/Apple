@@ -1,0 +1,131 @@
+
+  
+h2{
+  text-align:center;
+  
+  
+
+}
+ul{
+  background-color:rgba(0,0,0,0.8);
+  height: 45px;
+  text-align:center;
+  position:fixed; top:0;
+
+  
+  }
+  nav ul{
+    margin: 0;
+  }
+h1{
+  margin: 0;
+  font-size: 3.5rem;
+  color: black;
+  text-align: center;
+  
+}
+ul li a {
+  margin-top:5px;
+  margin-bottom: 5PX;
+  text-decoration: none;
+transition: 0.5s ease;
+color: white;
+
+  
+ 
+}
+ul li a :hover {
+color:rgb(79, 64, 119);
+text-decoration: none;
+
+}
+ul li {
+ 
+  display: inline-block;
+  padding-left: 20px;
+  padding-right: 18px;
+  color: aliceblue;
+}
+  
+}
+
+ul li a img{
+  height: 30px;
+}
+
+}
+  img{
+    padding: 30px 10px 0;
+    display:block;
+    margin: 0 auto ;
+  }
+  
+  }
+  div.box{
+    display:inline-block;
+    width: 30%; 
+  
+  }
+  div.box img{
+    width: 100%;
+  }
+
+ h3{
+   text-align: center;
+ }
+  
+  
+  p {
+    color:rgb(13, 11, 24); 
+    text-align: center;
+    margin: 0 auto;
+font-size: 2rem;
+   
+  }
+  div.food   {
+    display:inline-block;
+    width: 30%; 
+    
+
+    
+    
+  
+  }
+  
+  div.food img {
+    width: 100%;
+    object-fit: cover;
+   margin: 0 auto;
+   padding: 18%;
+   border: 25px;
+   background-color: rgb(214, 190, 194);
+   position:static;
+  }
+  
+
+.food  p {
+  text-align: center;
+ margin: 0 auto;
+ padding: 15%;
+ 
+}
+footer{
+  background-color: rgb(179, 173, 173);
+  padding:25px;
+  text-align:center;
+
+}
+
+
+
+
+footer li{
+ 
+  display: inline-block;
+  margin:10px 10px;
+  padding: 10px 10px;
+}
+footer li a{
+  color: rgb(46, 43, 43);
+
+}
